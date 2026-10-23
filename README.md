@@ -5,7 +5,7 @@
 ## 收录的 skill
 
 ### 1. 幻觉防治手册（ricky-hallucination-prevention-manual）
-防止 AI 幻觉的操作纪律：联网 + 引源 + 验证 + 明确说「不知道」，把幻觉率从约 20% 压到约 2%。
+防止 AI 幻觉的操作纪律：联网 + 引源 + 验证 + 明确说「不知道」，大幅降低幻觉率。
 → [ricky-hallucination-prevention-manual/](ricky-hallucination-prevention-manual/)
 
 ### 2. 需求澄清（requirement-clarification）
